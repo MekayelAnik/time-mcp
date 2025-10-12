@@ -33,3 +33,7 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# MCP
+.mcpregistry_github_token
+.mcpregistry_registry_token
